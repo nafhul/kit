@@ -28,7 +28,7 @@ go get -u github.com/golang/protobuf/protoc-gen-go
 # Installation
 Before you install please read [prerequisites](#prerequisites)
 ```bash
-go get github.com/kujtimiihoxha/kit
+go get github.com/nafhul/kit
 ```
 # Usage
 ```bash
