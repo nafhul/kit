@@ -6,6 +6,7 @@ import (
 	"strings"
 
 	"github.com/dave/jennifer/jen"
+	"github.com/nafhul/kit/fs"
 	"github.com/nafhul/kit/parser"
 	"github.com/nafhul/kit/utils"
 	"github.com/sirupsen/logrus"
