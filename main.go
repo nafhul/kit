@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/kujtimiihoxha/kit/cmd"
-	"github.com/kujtimiihoxha/kit/utils"
+	"github.com/nafhul/kit/cmd"
+	"github.com/nafhul/kit/utils"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"

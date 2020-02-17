@@ -1,4 +1,4 @@
-module github.com/kujtimiihoxha/kit
+module github.com/nafhul/kit
 
 go 1.12
 
@@ -9,7 +9,7 @@ require (
 	github.com/emicklei/proto v1.6.10
 	github.com/emicklei/proto-contrib v0.0.0-20190206213850-73879796f936
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/mattn/go-isatty v0.0.7 // indirect
+	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/sirupsen/logrus v1.4.0
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/spf13/afero v1.2.2
